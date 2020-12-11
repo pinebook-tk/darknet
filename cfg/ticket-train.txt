@@ -5,3 +5,22 @@
 /content/darknet/data/ticket/20201201_1.jpg
 /content/darknet/data/ticket/ticket1.jpg
 /content/darknet/data/ticket/ticket5.jpg
+/content/darknet/data/ticket/a93-efafd9gdga.jpg
+/content/darknet/data/ticket/8a3ddf75496a0d2d.jpg
+/content/darknet/data/ticket/cf7d798e96b7f7222708a1a809480363.jpg
+/content/darknet/data/ticket/otukare.jpg
+/content/darknet/data/ticket/20201101211215.jpg
+/content/darknet/data/ticket/EmTL6d4U0AcXPO-.jpg
+/content/darknet/data/ticket/3af1ddac.jpg
+/content/darknet/data/ticket/202012090932_1.png
+/content/darknet/data/ticket/202012090932.png
+/content/darknet/data/ticket/hqdefault.jpg
+/content/darknet/data/ticket/1af89466.jpg
+/content/darknet/data/ticket/2020-11-02 23-53-43-123.jpg
+/content/darknet/data/ticket/org (2).jpg
+/content/darknet/data/ticket/org (1).jpg
+/content/darknet/data/ticket/org.jpg
+/content/darknet/data/ticket/20201001mist-2.png
+/content/darknet/data/ticket/20201002182605.jpg
+/content/darknet/data/ticket/f81d91af-s.jpg
+/content/darknet/data/ticket/197ddc45a0f8250ab81ff2c426b11eb5.png

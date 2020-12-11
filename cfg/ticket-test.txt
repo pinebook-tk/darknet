@@ -2,12 +2,3 @@
 /content/darknet/data/ticket/202012101855.png
 /content/darknet/data/ticket/202012101850.png
 /content/darknet/data/ticket/202012101839.png
-/content/darknet/data/ticket/a93-efafd9gdga.jpg
-/content/darknet/data/ticket/8a3ddf75496a0d2d.jpg
-/content/darknet/data/ticket/cf7d798e96b7f7222708a1a809480363.jpg
-/content/darknet/data/ticket/otukare.jpg
-/content/darknet/data/ticket/20201101211215.jpg
-/content/darknet/data/ticket/EmTL6d4U0AcXPO-.jpg
-/content/darknet/data/ticket/3af1ddac.jpg
-/content/darknet/data/ticket/202012090932_1.png
-/content/darknet/data/ticket/202012090932.png
