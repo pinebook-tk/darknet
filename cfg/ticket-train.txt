@@ -1,0 +1,7 @@
+/content/darknet/data/ticket/20201001_1.jpg
+/content/darknet/data/ticket/20201001_2.jpg
+/content/darknet/data/ticket/20201001_3.jpg
+/content/darknet/data/ticket/20201101_1.jpg
+/content/darknet/data/ticket/20201201_1.jpg
+/content/darknet/data/ticket/ticket1.jpg
+/content/darknet/data/ticket/ticket5.jpg
